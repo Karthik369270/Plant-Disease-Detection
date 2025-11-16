@@ -3,4 +3,5 @@ fastapi
 uvicorn
 python-multipart
 Pillow
+gradio
 numpy
